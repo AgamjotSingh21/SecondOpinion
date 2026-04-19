@@ -26,7 +26,6 @@ second_opinion/
 ├── build_db.py
 ├── requirements.txt
 ├── README.md
-│
 ├── knowledge_base/
 │   └── food_delivery.txt
 ```
