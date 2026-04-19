@@ -74,6 +74,3 @@ Should I start a food delivery startup in Ludhiana?
 - ChromaDB  
 - Sentence Transformers  
 - Ollama  
-
-## 👨‍💻 Author
-Your Name
