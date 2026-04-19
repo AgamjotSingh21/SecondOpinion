@@ -18,6 +18,7 @@ The system uses 4 AI agents:
 4. Judge Agent – Gives final verdict  
 
 ## 📂 Project Structure
+```
 second_opinion/
 │
 ├── agents.py
@@ -28,6 +29,7 @@ second_opinion/
 │
 ├── knowledge_base/
 │   └── food_delivery.txt
+```
 
 ## ⚙️ Setup Instructions
 
