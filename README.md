@@ -33,7 +33,7 @@ second_opinion/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/<your-username>/SecondOpinion.git
+git clone https://github.com/AgamjotSingh21/SecondOpinion.git
 cd SecondOpinion/second_opinion
 
 ### 2. Create virtual environment
