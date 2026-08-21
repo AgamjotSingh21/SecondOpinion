@@ -47,6 +47,7 @@ ENV/
 
 .vscode/
 .idea/
+requirements/
 
 .DS_Store
 Thumbs.db
